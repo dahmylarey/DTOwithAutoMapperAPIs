@@ -1,0 +1,6 @@
+@DTOwithAutoMapperAPIs_HostAddress = http://localhost:5108
+
+GET {{DTOwithAutoMapperAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
